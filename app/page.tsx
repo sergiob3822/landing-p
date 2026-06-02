@@ -18,7 +18,7 @@ const steps = [
 ];
 
 const perks = [
-  { icon: "🎁", title: "Bono de bienvenida", desc: "Hasta 200% en tu primera carga." },
+  { icon: "🎁", title: "Bono de bienvenida", desc: "50% en tu primera carga." },
   { icon: "⚡", title: "Retiros en minutos", desc: "Cobrá rápido, sin demoras." },
   { icon: "🔒", title: "100% seguro", desc: "Tus datos y tu plata, protegidos." },
   { icon: "📲", title: "Atención 24/7", desc: "Soporte por WhatsApp siempre." },
