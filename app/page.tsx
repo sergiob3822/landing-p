@@ -57,7 +57,7 @@ export default function Home() {
         </div>
 
         <div className="mx-auto mb-6 inline-flex animate-pop items-center gap-2 rounded-full border border-neon-pink/50 bg-neon-pink/10 px-4 py-1.5 text-sm font-semibold text-neon-pink shadow-glow-pink">
-          🔥 Bono de bienvenida del 50% 🔥
+          🔥 Bono de bienvenida: 50% 🔥
         </div>
 
         <h1 className="mx-auto max-w-4xl font-display text-5xl font-black leading-[1.05] sm:text-7xl">
